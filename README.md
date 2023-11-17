@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jeanette!</h1>
 <h3 align="center">Full stack software engineer in Eugene, OR. I like problem-solving, reading, and cats.</h3>
 
-- 📫 How to reach me **jeanettehaltondev@gmail.com**
+- 📫 How to reach me **haltonjeanette@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
