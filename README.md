@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Jeanette!</h1>
 <h3 align="center">Full stack software engineer in Eugene, OR. I like problem-solving, reading, and cats.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhalton" alt="jhalton" /></a> </p>
-
 - 📫 How to reach me **jeanettehaltondev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
