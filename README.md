@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Quoth the Raven](https://github.com/jhalton/quoth-the-raven)
 
-- 📫 How to reach me **jeanettehaltondev@gmail.com**
+- 📫 How to reach me **haltonjeanette@gmail.com**
 
 - ⚡ Fun fact **Currently reading: Dracula**
 
