@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jeanette!</h1>
-<h3 align="center">I'm a full stack software engineer in Eugene, OR. I love problem solving and challenging myself to grow personally and professionally.
+<h3 align="left">I'm a full stack software engineer in Eugene, OR. I love problem solving and challenging myself to grow personally and professionally.
 
 <br>I am most comfortable with JavaScript, but also really enjoy Python and I am always working to grow my skills and knowledge base. 
 
