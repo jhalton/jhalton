@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Jeanette!</h1>
-<h3 align="center">Full stack software engineer in Eugene, OR. I like problem-solving, reading, and cats.</h3>
+<h3 align="center">I'm a full stack software engineer in Eugene, OR. I love problem solving and challenging myself to grow personally and professionally.
+
+<br>I am most comfortable with JavaScript, but also really enjoy Python and I am always working to grow my skills and knowledge base. 
+
+Learning is a lifelong journey for me and I am always excited for the next thing!
+</h3>
 
 - 🔭 I’m currently working on [Quoth the Raven](https://github.com/jhalton/quoth-the-raven)
 
