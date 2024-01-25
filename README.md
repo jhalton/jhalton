@@ -6,11 +6,11 @@
 Learning is a lifelong journey for me and I am always excited for the next thing!
 </h3>
 
-- 🔭 I’m currently working on [Quoth the Raven](https://github.com/jhalton/quoth-the-raven)
+- 🔭 I’m currently working on [Hocus Pocus Let's Focus]([https://github.com/jhalton/hocus-pocus-lets-focus])
 
 - 📫 How to reach me **haltonjeanette@gmail.com**
 
-- ⚡ Fun fact **Currently reading: Limitless by Jim Kwik**
+- ⚡ Fun fact **Currently reading: Tiny Habits by BJ Fogg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
