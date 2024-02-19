@@ -22,6 +22,6 @@ Learning is a lifelong journey for me and I am always excited for the next thing
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhalton&show_icons=true&locale=en&layout=compact" alt="jhalton" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhalton&show_icons=true&locale=en" alt="jhalton" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhalton&" alt="jhalton" /></p>
