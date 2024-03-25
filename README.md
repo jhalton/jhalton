@@ -10,7 +10,7 @@ Learning is a lifelong journey for me and I am always excited for the next thing
 
 - 📫 How to reach me **haltonjeanette@gmail.com**
 
-- ⚡ Fun fact **Currently reading: Tiny Habits by BJ Fogg**
+- ⚡ Fun fact **Currently reading: Tiny Habits by BJ Fogg && Pandora by Susan Stokes-Chapman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
