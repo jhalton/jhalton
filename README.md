@@ -6,11 +6,11 @@
 Learning is a lifelong journey for me and I am always excited for the next thing!
 </h3>
 
-- 🔭 I’m currently working on KaneKare
+- 🔭 I’m currently working on KanKare
 
 - 📫 How to reach me **haltonjeanette@gmail.com**
 
-- ⚡ Fun fact **Currently reading: The People in the Trees by Hanya Yanagihara**
+- ⚡ Fun fact **Currently reading: Anna Karenina by Leo Tolstoy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
