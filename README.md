@@ -10,7 +10,7 @@ Learning is a lifelong journey for me and I am always excited for the next thing
 
 - 📫 How to reach me **haltonjeanette@gmail.com**
 
-- ⚡ Fun fact **Currently reading: Dracula by Bram Stoker**
+- ⚡ Fun fact **Currently reading: Dracula by Bram Stoker && Atomic Habits by James Clear**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
