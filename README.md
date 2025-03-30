@@ -6,11 +6,11 @@
 Learning is a lifelong journey for me and I am always excited for the next thing!
 </h3>
 
-- 🔭 I’m currently working on KanKare and Moody
+- 🔭 I’m currently working on Project Seeds
 
 - 📫 How to reach me **haltonjeanette@gmail.com**
 
-- ⚡ Fun fact **Currently reading: Dracula by Bram Stoker && Atomic Habits by James Clear**
+- ⚡ Fun fact **Currently reading: Human Compatible by Stuart Russell && The Tartar Steppe by Dino Buzzatti**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
