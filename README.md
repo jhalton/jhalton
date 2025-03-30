@@ -6,7 +6,7 @@
 Learning is a lifelong journey for me and I am always excited for the next thing!
 </h3>
 
-- 🔭 I’m currently working on Project Seeds
+- 🔭 I’m currently working on Seeds
 
 - 📫 How to reach me **haltonjeanette@gmail.com**
 
