@@ -10,7 +10,7 @@ Learning is a lifelong journey for me and I am always excited for the next thing
 
 - 📫 How to reach me **haltonjeanette@gmail.com**
 
-- ⚡ Fun fact **Currently reading: Human Compatible by Stuart Russell && The Tartar Steppe by Dino Buzzatti**
+- ⚡ Fun fact **Currently reading: Human Compatible by Stuart Russell && Flowers For Algernon by Daniel Keyes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
