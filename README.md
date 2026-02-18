@@ -6,11 +6,11 @@
 Learning is a lifelong journey for me and I am always excited for the next thing!
 </h3>
 
-- 🔭 I’m currently working on Seeds
+- 🔭 I’m currently working on Quizzes
 
 - 📫 How to reach me **haltonjeanette@gmail.com**
 
-- ⚡ Fun fact **Currently reading: To Paradise by Hanya Yanagihara**
+- ⚡ Fun fact **Currently reading: Nothing to Envy by Barbara Demick**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
