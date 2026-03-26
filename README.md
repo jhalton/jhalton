@@ -6,11 +6,11 @@
 Learning is a lifelong journey for me and I am always excited for the next thing!
 </h3>
 
-- 🔭 I’m currently working on Quizzes
+- 🔭 I’m currently working on... learning. Apprentice SWE @ Pinterest 📌
 
 - 📫 How to reach me **haltonjeanette@gmail.com**
 
-- ⚡ Fun fact **Currently reading: Nothing to Envy by Barbara Demick**
+- ⚡ Fun fact **Currently reading: Why We Sleep by Matthew Walker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
